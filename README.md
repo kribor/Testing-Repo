@@ -1,3 +1,2 @@
-Radio test
-* [ ] Option 1
-* [ ] Option 2
+Link in repo
+[link text](/test/doc2.md)
